@@ -1,6 +1,12 @@
-<h2 align="left">Hi 👋! My name is Sebastian and I'm a Full Stack Developer</h2>
+<h2 align="center">Hi 👋! My name is Sebastian and I'll be a Full Stack Developer</h2>
 
-###
+ <div align="center" height="200">
+   <h3>💫 About Me:</h3>
+<h4>Aspiring Full Stack Developer | Currently completing studies at 4Geeks Academy. Leveraging a background in Operations Management to bring a unique and comprehensive approach to software development. Seeking job opportunities.
+  </h4>
+ </div>
+</br>
+</br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -81,9 +87,21 @@
 </div>
 
 ###
-
+<div align="center" >
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/devSebaKsk/devSebaKsk/output/snake.svg" alt="Snake animation" />
+### ✍️ Quote Of the Day
 
-###
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=devSebaKsk&icon=7&color=3)](https://visitcount.itsvg.in)
+
+</div>
+<div align="center">
+
+  ### 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dariocascante) 
+
+
+  </div>
