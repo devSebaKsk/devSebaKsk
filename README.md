@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Sebastian and I'll be a Full Stack Developer</h2>
+<h2 align="center">Hi 👋! My name is Sebastian and I am a Full Stack Developer</h2>
 
  <div align="center" height="200">
    <h3>💫 About Me:</h3>
