@@ -2,7 +2,7 @@
 
  <div align="center" height="200">
    <h3>💫 About Me:</h3>
-<h4>Aspiring Full Stack Developer | Currently completing studies at 4Geeks Academy. Leveraging a background in Operations Management to bring a unique and comprehensive approach to software development. Seeking job opportunities.
+<h4>Aspiring to gain experience as a Full Stack Developer. Leveraging a background in Operations Management to bring a unique and comprehensive approach to software development. Seeking job opportunities.
   </h4>
  </div>
 </br>
