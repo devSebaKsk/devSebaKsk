@@ -2,7 +2,7 @@
   <h1>Hola 👋, soy Sebastian</h1>
   <p><strong>Full Stack Developer | Operations Management Background</strong></p>
   
-<img src="https://github-readme-stats-git-masterrstak-vx.vercel.app/api?username=devSebaKsk&show_icons=true&theme=tokyonight" alt="Stats de Seba" />
+[![Seba's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devSebaKsk&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ---
