@@ -46,8 +46,7 @@ Aquí puedes ver la frecuencia de mis aportes al código:
 <br />
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSebaKsk&langs_count=8&theme=tokyonight&layout=compact" alt="Top Langs" /></div>
-
+<img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=devSebaKsk&layout=compact&theme=tokyonight" height="200" alt="Mis Lenguajes" />
 ---
 
 ### 📫 Contacto
