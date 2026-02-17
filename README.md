@@ -2,7 +2,7 @@
   <h1>Hola 👋, soy Sebastian</h1>
   <p><strong>Full Stack Developer | Operations Management Background</strong></p>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=devSebaKsk&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" />
+ <img src="https://github-readme-stats.vercel.app/api?username=devSebaKsk&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" />
 </div>
 
 ---
