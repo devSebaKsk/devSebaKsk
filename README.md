@@ -46,7 +46,7 @@ Aquí puedes ver la frecuencia de mis aportes al código:
 <br />
 
 <div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devSebaKsk&layout=compact&theme=tokyonight&hide_border=true" height="200" alt="Top Langs" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,mysql,html,css&perline=8" />
   ---
 
 ### 📫 Contacto
