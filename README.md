@@ -9,7 +9,7 @@
 
 ### 💫 Sobre mí
 
-Soy un desarrollador Full Stack con una perspectiva única gracias a mi experiencia previa en **Gestión de Operaciones**. Esta combinación me permite construir software no solo funcional, sino eficiente y escalable. Actualmente enfocado en el ecosistema JavaScript y buscando nuevos desafíos profesionales.
+Soy un desarrollador Full Stack con una perspectiva única gracias a mi experiencia previa en **Gestión de Operaciones**. Esta combinación me permite construir software no solo funcional, sino eficiente y escalable.
 
 - 🔭 Actualmente trabajando en: **Bera** (Digital Ordering App) y **Win My Pixel**.
 - 🌱 Aprendiendo constantemente sobre: **Blockchain (Ethereum)** y arquitecturas escalables.
